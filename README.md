@@ -16,7 +16,7 @@ This is a simple web project, deployment can be local or on file system
 
 ##How to contribute
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, please fork and issue pull rqst
 
 ##Copyright 
 Git.training
