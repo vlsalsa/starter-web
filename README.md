@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 this is how i made it
 ADDING A LINE
+MORE CHANGES FROM MY FEATUREE BRANCH
 
 ##Introduction
 
