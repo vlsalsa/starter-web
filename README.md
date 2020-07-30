@@ -2,10 +2,12 @@
 
 This repository is for showing how Git and GitHub work
 this is how i made it
+ADDING A LINE
 
 ##Introduction
 
 This is how to start a different part
+
 ## Purpose
 
 hello world
@@ -19,4 +21,5 @@ This is a simple web project, deployment can be local or on file system
 Sample website with plenty of files for demos, please fork and issue pull rqst
 
 ##Copyright 
+
 Git.training
