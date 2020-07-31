@@ -9,6 +9,7 @@
 ##Introduction
 
 This is how to start a different part
+git stash information
 
 ## Purpose
 
