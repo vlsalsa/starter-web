@@ -1,10 +1,11 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
-this is how i made it
-ADDING A LINE
-MORE CHANGES FROM MY FEATUREE BRANCH
-
+	This repository is for showing how Git and GitHub work
+	this is how i made it
+	ADDING A LINE
+	MORE CHANGES FROM MY FEATUREE BRANCH
+	adding line after stash
+	
 ##Introduction
 
 This is how to start a different part
